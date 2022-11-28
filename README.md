@@ -1,3 +1,6 @@
+Antes de começar a ver meu desenvolvimento quero pedir desculpas pois aconteceu um imprevisto familiar aqui e não consegui finalizar 100% do projeto, porem quero dizer que tenho certeza de que farei um esforço muito grande a vocês para mostrar todo meu potencial, além desse CRUD, fiz mais um desenvolvimento para mostrar um pouco mais das minhas skills com node, esse projeto abaixo foi o maximo que consegui fazer pois tive que resolver umas coisas familiares, mas eu peço uma oportunidade para vocês, meu computador aqui que tenho não é muito bom, eu só consigo fazer o básico nele, posso até mostrar para ver que não estou dando apenas motivos, mas tenho certeza que irão gostar do meu desenvolvimento, agradeço a atenção e espero de coração fzer parte desse time de DEVs. Abraço!
+
+
 # Node_Crud
 
 <p align="center">
