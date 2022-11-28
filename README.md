@@ -23,4 +23,20 @@ Atributos de um Carro são:
 • Tipo de Câmbio
 • Preço de venda
 
+## 🛠 Tecnologias
+
+Este projeto foi desenvolvido com as seguintes tecnologias
+
+### App
+
+- [Typescript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/)
+- [Ts Node Dev](https://www.npmjs.com/package/ts-node-dev)
+- [Express](https://expressjs.com/pt-br/)
+- [Mongoose](https://mongoosejs.com/)
+
+### Banco de Dados
+
+- [Mongo DB](https://www.mongodb.com/atlas/database)
+
 Entrega dia 28/11/2022
