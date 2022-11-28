@@ -39,4 +39,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 
 - [Mongo DB](https://www.mongodb.com/atlas/database)
 
+## :clipboard: Funcionalidades
+
+  - [x] Listar todos os carros.
+  - [x] Criar carros.
+  - [x] Listar carro por id.
+  - [x] Editar carro por id .
+  - [x] Deletar carro por id.
+
 Entrega dia 28/11/2022
