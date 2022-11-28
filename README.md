@@ -73,4 +73,16 @@ $ yarn dev ou npm run dev
 # O app vai está rodando na porta 3333 - acesse <http://localhost:3333>
 ```
 
+## :man: Autor
+
+<a href="https://github.com/SzCleiton/">
+ <img src="https://avatars.githubusercontent.com/u/96728081?v=4" width="70px;" alt=""/>
+ <br />
+ <sub><b>Cleiton Souza</b></sub>
+</a>
+
+Feito com muito carinho e dedicação por Cleiton :wave::wave: Entre em contato!🚀
+
+</a>
+
 Entrega dia 28/11/2022
