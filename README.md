@@ -47,4 +47,30 @@ Este projeto foi desenvolvido com as seguintes tecnologias
   - [x] Editar carro por id .
   - [x] Deletar carro por id.
 
+## :closed_book: Instalação
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+#### Iniciando Back-End
+
+```bash
+# Clone este repositório;
+$ git clone https://github.com/matheusteodoro01/api-node-js.git
+
+# Vá para a pasta onde esta o app;
+$ cd api-node-js
+
+# Instale as dependências;
+$ yarn ou npm install
+
+# Execute aplicação;
+$ yarn dev ou npm run dev
+
+# O app vai está rodando na porta 3333 - acesse <http://localhost:3333>
+```
+
 Entrega dia 28/11/2022
